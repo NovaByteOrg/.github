@@ -10,8 +10,6 @@ We specialize in:
 - ⚙️ Performance-focused utilities and tools
 - 🧩 Modular plugin systems and developer APIs
 
----
-
 ## 🧩 What We Do
 
 At NovaByte, we work with Minecraft servers of all scales — from ambitious startups to some of **largest networks**.  
@@ -25,8 +23,6 @@ We’ve built:
 
 And we’re just getting started.
 
----
-
 ## 🌍 Join the Community
 
 NovaByte is built by developers, for developers. We're always open to:
@@ -36,15 +32,11 @@ NovaByte is built by developers, for developers. We're always open to:
 
 Feel free to explore our projects, fork a repo, or contribute ideas!
 
----
-
 ## 📚 Resources
 
 - 📝 **Documentation:** docs.novabyte.dev  
 - 💬 **Discord Support:** ds.novabyte.dev  
 - 🧪 **Public Tools & APIs:** Browse our GitHub repos
-
----
 
 ## 🧠 Fun Facts
 
