@@ -42,8 +42,6 @@ Feel free to explore our projects, fork a repo, or contribute ideas!
 - We love elegant APIs and well-documented code  
 - Our debugging motto: “If it compiles, it ships.” (Kidding… mostly)
 
----
-
 ## 🧙‍♂️ Powered by Passion
 
 At **NovaByte Development**, we’re not just coding — we’re building immersive experiences for Minecraft players and server owners around the world.
