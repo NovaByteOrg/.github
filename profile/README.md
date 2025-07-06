@@ -1,7 +1,5 @@
 # 🚀 NovaByte Development
 
-## Hi there 👋
-
 Welcome to **NovaByte Development** — a passionate plugin development studio crafting powerful, polished, and innovative Minecraft plugins.
 
 We specialize in:
